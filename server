@@ -1,4 +1,4 @@
-{
+##{
    "ads_banner" : "ca-app-pub-8708018795595760/3232448599",
    "ads_card" : "ca-app-pub-8708018795595760/1919366927",
    "ads_fullscreen" : "ca-app-pub-8708018795595760/6980121919",
@@ -39,4 +39,4 @@
    "maintenance" : 1,
    "package_name" : "com.xtreamcodeapi.ventoxapp",
    "version" : 39
-}
+}##
